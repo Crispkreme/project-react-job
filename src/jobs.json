@@ -1,0 +1,130 @@
+{
+  "jobs": [
+    {
+      "id": "1",
+      "title": "Senior React Developer",
+      "type": "Full-Time",
+      "description": "We are looking for an experienced Senior React Developer to join our team in Makati City. The ideal candidate should have extensive knowledge of React.js and front-end development best practices.",
+      "location": "Makati City, Philippines",
+      "salary": "PHP 70,000 - PHP 90,000",
+      "company": {
+        "name": "TechInnovate Solutions",
+        "description": "TechInnovate Solutions is a fast-growing IT company specializing in web and mobile development. We prioritize innovation, teamwork, and excellence in delivering digital solutions.",
+        "contactEmail": "careers@techinnovate.ph",
+        "contactPhone": "+63 917 123 4567"
+      }
+    },
+    {
+      "id": "2",
+      "title": "Front-End Engineer (React & Redux)",
+      "type": "Full-Time",
+      "description": "We are seeking a talented Front-End Engineer with expertise in React and Redux. Join our team in Quezon City and work on cutting-edge web applications.",
+      "location": "Quezon City, Philippines",
+      "salary": "PHP 60,000 - PHP 80,000",
+      "company": {
+        "name": "WebVision PH",
+        "description": "WebVision PH is a digital agency that specializes in web development, UI/UX design, and e-commerce solutions. Our goal is to help businesses thrive in the online space.",
+        "contactEmail": "jobs@webvision.ph",
+        "contactPhone": "+63 917 654 3210"
+      }
+    },
+    {
+      "id": "3",
+      "title": "React.js Developer",
+      "type": "Full-Time",
+      "description": "Join our Cebu-based development team as a React.js Developer. We are looking for someone who is passionate about front-end development and modern JavaScript frameworks.",
+      "location": "Cebu City, Philippines",
+      "salary": "PHP 65,000 - PHP 85,000",
+      "company": {
+        "name": "CodeWave Solutions",
+        "description": "CodeWave Solutions is a software development firm that focuses on building scalable and high-performance web applications.",
+        "contactEmail": "recruitment@codewave.ph",
+        "contactPhone": "+63 927 555 7890"
+      }
+    },
+    {
+      "id": "4",
+      "title": "Laravel Developer",
+      "type": "Remote",
+      "location": "Davao City, Philippines",
+      "description": "We are looking for a React Front-End Developer for a part-time role in Davao City. Flexible working hours and remote work options available.",
+      "salary": "₱20,000 - ₱30,000",
+      "company": {
+        "name": "DigitalSync Labs",
+        "description": "DigitalSync Labs is an innovative software company that provides digital transformation solutions for businesses in Southeast Asia.",
+        "contactEmail": "apply@digitalsync.ph",
+        "contactPhone": "+63 926 111 2233"
+      }
+    },
+    {
+      "id": "5",
+      "title": "Full Stack React Developer",
+      "type": "Full-Time",
+      "description": "Looking for a Full Stack React Developer to work on enterprise-level applications in Ortigas, Pasig. Must have experience with both front-end and back-end technologies.",
+      "location": "Ortigas, Pasig, Philippines",
+      "salary": "PHP 75,000 - PHP 95,000",
+      "company": {
+        "name": "Innovatech Systems",
+        "description": "Innovatech Systems is a leading IT company that specializes in software solutions for enterprises and startups alike.",
+        "contactEmail": "hr@innovatech.ph",
+        "contactPhone": "+63 920 333 4444"
+      }
+    },
+    {
+      "id": "6",
+      "title": "React Native Developer",
+      "type": "Full-Time",
+      "description": "We are looking for a React Native Developer to build mobile applications for clients in the fintech and e-commerce industries.",
+      "location": "Taguig City, Philippines",
+      "salary": "PHP 80,000 - PHP 100,000",
+      "company": {
+        "name": "AppForge Solutions",
+        "description": "AppForge Solutions is a software development firm specializing in mobile app development and digital transformation services.",
+        "contactEmail": "jobs@appforge.ph",
+        "contactPhone": "+63 917 888 9999"
+      }
+    },
+    {
+      "id": "7",
+      "title": "Junior React Developer",
+      "type": "Full-Time",
+      "description": "Entry-level opportunity for fresh graduates! We are hiring a Junior React Developer in Iloilo City. Training will be provided.",
+      "location": "Iloilo City, Philippines",
+      "salary": "PHP 30,000 - PHP 50,000",
+      "company": {
+        "name": "NextGen Web Solutions",
+        "description": "NextGen Web Solutions is a startup dedicated to helping local businesses transition to digital platforms.",
+        "contactEmail": "careers@nextgenweb.ph",
+        "contactPhone": "+63 995 222 3333"
+      }
+    },
+    {
+      "id": "8",
+      "title": "React Software Engineer",
+      "type": "Full-Time",
+      "description": "Join our global software development team in Clark, Pampanga, as a React Software Engineer. Work on exciting projects with international clients.",
+      "location": "Clark, Pampanga, Philippines",
+      "salary": "PHP 85,000 - PHP 110,000",
+      "company": {
+        "name": "GlobalTech Solutions",
+        "description": "GlobalTech Solutions is an outsourcing company that provides IT services to clients worldwide.",
+        "contactEmail": "recruit@globaltech.ph",
+        "contactPhone": "+63 929 444 5555"
+      }
+    },
+    {
+      "id": "9",
+      "title": "React UI/UX Developer",
+      "type": "Full-Time",
+      "description": "We are looking for a UI/UX Developer with strong React skills to create engaging user experiences for web applications.",
+      "location": "Baguio City, Philippines",
+      "salary": "PHP 55,000 - PHP 75,000",
+      "company": {
+        "name": "Mountain Dev Hub",
+        "description": "Mountain Dev Hub is a remote-friendly software company that focuses on delivering top-notch UI/UX and development services.",
+        "contactEmail": "work@mountaindev.ph",
+        "contactPhone": "+63 917 777 8888"
+      }
+    }
+  ]
+}
